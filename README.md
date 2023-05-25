@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align = "center">
+  <img src = "Memoji_Hi.png">
+  <h1> Hi! 👋 I'm Anagha. I'm a Mobile Application Developer! 📱</h1>
+  <a href="https://www.linkedin.com/in/anaghakj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-                         badge&logo=linkedin&style=flat&logoColor=white"></a>
+</div>
 
-<!--
-**anaghajp1996/anaghajp1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here's a little about myself!
 
-Here are some ideas to get you started:
+- 📱 I'm an iOS and Flutter developer
+- 👩🏻‍💻 I LOVE coding!
+- 🕺🏻 I enjoy converting UI to code!
+- 👀 My other interests include Cyber Security, Software Testing, & Computer Forensics 🤓
+- 💻 Currently learning React!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I've used
+- iOS: Swift, SwiftUI, Objective-C, Cocoa, App Storage, UIKit, Core Data, Core Bluetooth, MVVM, MVC, Notifications
+- Flutter: Widgets, Health, Maps, Google Speech-to-Text, Camera, Notifications, Streams, 
+- Other Tech: Firebase, Google Cloud Services, Mapbox, Zeplin, Postman, GraphQL, RayzorPay, RESTful APIs
+- Other Languages: HTML, Python, C, C++, Javascript, Java, Kotlin
