@@ -1,5 +1,4 @@
 <div align = "center">
-  <img src = "Memoji_Hi.png">
   <h1> Hi! 👋 I'm Anagha. I'm a Mobile Application Developer! 📱</h1>
   <a href="https://www.linkedin.com/in/anaghakj/">My LinkedIn!</a>
 </div>
